@@ -1,2 +1,2 @@
 # library
-Library Management System
+Library Management System using Ruby on Rails with Postgres Database engine.
